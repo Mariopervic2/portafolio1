@@ -17,7 +17,7 @@
 - [x] Como funciona la herencia entre clases
 - [x] A sobrescribir con Override
 - [x] A comprender y diseñar diagramas y esquemas UML
-  [10:50] MARIO PERNÍA VICENTE
+
 ### 3.Dos ejercicios de las prácticas:
 * **Ejercicio1:**
 
@@ -212,3 +212,12 @@ public class Baraja {
 |---------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|-------------------------------------|
 | Es el primer ejercicio en el que introducimos una cantidad de objetos en otra clase (cartas dentro de baraja) | Creando un array de objetos carta llamado "cartas" que conforma la baraja | A manejar y crear arrays de objetos |
 >Si bien es verdad que puede que estos ejercicios no sean los mas complicados en comparación a los que hemos hecho después, son los primeros que sirven para asentar las bases y ver nuevo contenido por lo cual los considero esenciales.
+
+### 4.Conclusiones:
+![img_1.png](img_1.png)
+- La programación orientada a objetos es muy útil para organizar mi código y mis programas en diferentes objetos clases y subclases, aportando así un mayor orden.
+- Puedo reutilizar el código o poder modificarlo poco en caso de necesitar una variante para un programa
+- La POO me permite un mantenimiento mucho más fácil del programa gracias a que puedo modificar los objetos por separado, realizando así ajustes solo en aquello que desee sin necesidad de alterar el resto del programa
+- He aprendido a utilizar interfaces y clases abstractas
+- Las clases pueden heredar y sobrescribir metodos de su superclase
+- Lo que menos me ha gustado lo "repetitiva" que es la creación de objetos, estando siempre los metodos de get, set, constructores por defecto, todos los tipos de constructores en todas sus otras versiones específicas,etc.
