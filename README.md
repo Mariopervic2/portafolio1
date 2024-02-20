@@ -1,4 +1,14 @@
 # Trabajo Git
+![img_2.png](img_2.png)
+---
+Autor: Mario Pernía Vicente
+
+Edad:20
+
+Estudiante del CIFP Juan De Herrera
+
+---
+
 ### 1.Expectativas antes de aprender POO:
 ![](img.png)
 
@@ -6,7 +16,7 @@
   - A crear entidades que sirviesen para dividir el programa en partes más pequeñas que juntas pudiesen hacer el programa entero
   - Estos objetos podrían ser reutilizados en otros programas en caso de necesitarlos
   - Cada objeto tendría acceso a sus propios datos y así no molestarían a otras entidades del programa a no ser que nosotros lo quisieramos
-
+---
 ### 2.Que he aprendido durante estas unidades:
 [Haz click aquí para conocer más sobre la POO](https://jorgesanchez.net/manuales/viejos/fpr/fpr0609.pdf)
 - [x] A diferenciar entre clase y objeto 
@@ -17,7 +27,7 @@
 - [x] Como funciona la herencia entre clases
 - [x] A sobrescribir con Override
 - [x] A comprender y diseñar diagramas y esquemas UML
-
+---
 ### 3.Dos ejercicios de las prácticas:
 * **Ejercicio1:**
 
@@ -212,12 +222,18 @@ public class Baraja {
 |---------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|-------------------------------------|
 | Es el primer ejercicio en el que introducimos una cantidad de objetos en otra clase (cartas dentro de baraja) | Creando un array de objetos carta llamado "cartas" que conforma la baraja | A manejar y crear arrays de objetos |
 >Si bien es verdad que puede que estos ejercicios no sean los mas complicados en comparación a los que hemos hecho después, son los primeros que sirven para asentar las bases y ver nuevo contenido por lo cual los considero esenciales.
-
+>>Las bases siempre son importantes :D
+---
 ### 4.Conclusiones:
 ![img_1.png](img_1.png)
-- La programación orientada a objetos es muy útil para organizar mi código y mis programas en diferentes objetos clases y subclases, aportando así un mayor orden.
-- Puedo reutilizar el código o poder modificarlo poco en caso de necesitar una variante para un programa
-- La POO me permite un mantenimiento mucho más fácil del programa gracias a que puedo modificar los objetos por separado, realizando así ajustes solo en aquello que desee sin necesidad de alterar el resto del programa
-- He aprendido a utilizar interfaces y clases abstractas
-- Las clases pueden heredar y sobrescribir metodos de su superclase
-- Lo que menos me ha gustado lo "repetitiva" que es la creación de objetos, estando siempre los metodos de get, set, constructores por defecto, todos los tipos de constructores en todas sus otras versiones específicas,etc.
+- [x] La programación orientada a objetos es muy útil para organizar mi código y mis programas en diferentes objetos clases y subclases, aportando así un mayor orden.
+- [x] Puedo reutilizar el código o poder modificarlo poco en caso de necesitar una variante para un programa
+- [x] La POO me permite un mantenimiento mucho más fácil del programa gracias a que puedo modificar los objetos por separado, realizando así ajustes solo en aquello que desee sin necesidad de alterar el resto del programa
+- [x] He aprendido a utilizar interfaces y clases abstractas
+- [x] Las clases pueden heredar y sobrescribir metodos de su superclase
+- [ ] Lo que menos me ha gustado lo "repetitiva" que es la creación de objetos, estando siempre los metodos de get, set, constructores por defecto, todos los tipos de constructores en todas sus otras versiones específicas,etc.
+
+---
+~~FIN~~
+
+![img_3.png](img_3.png)
